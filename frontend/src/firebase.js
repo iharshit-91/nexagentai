@@ -8,12 +8,12 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
- authDomain: "automate-demo-46be7.firebaseapp.com",
-  projectId: "automate-demo-46be7",
-  storageBucket: "automate-demo-46be7.firebasestorage.app",
-  messagingSenderId: "943307435164",
-  appId: "1:943307435164:web:d062da5e4f666e23ecd159"
+  apiKey: "AIzaSyC_vUDYZgQgs0PK9G4IrIK5grPuwRZJJ3Q",
+  authDomain: "nexagentai-ea58c.firebaseapp.com",
+  projectId: "nexagentai-ea58c",
+  storageBucket: "nexagentai-ea58c.firebasestorage.app",
+  messagingSenderId: "833069881728",
+  appId: "1:833069881728:web:aa6689659ae305a0cd0965"
 };
 
 // Initialize Firebase
